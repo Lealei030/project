@@ -68,13 +68,6 @@ We have 32 cars.
 
 
 
-# use a function without loading the package:
-# package::function
-usethis::use_git_config(
-  user.name = "Leilei Xie", # <-- change to your name
-  user.email = "xieleilei030@gmail.com", # <-- and your email
-  init.defaultBranch = "main") # <-- not necessary but kinder than 'master'
 
-usethis::use_git()
 
 
